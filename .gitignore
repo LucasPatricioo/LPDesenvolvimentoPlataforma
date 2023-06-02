@@ -1,0 +1,55 @@
+# Arquivos gerados automaticamente
+obj/
+bin/
+
+# Arquivos de dependências do NuGet
+*.nuget.props
+*.nuget.targets
+
+# Arquivos gerados pelo Visual Studio
+.vs/
+*_i.c
+*_p.c
+*.sln.docstates
+
+# Ferramentas locais
+/.vscode/
+/.idea/
+/.vs/
+
+# Arquivos de build do MSBuild
+msbuild*.log
+
+# Arquivos de publicação
+*.swp
+*~
+
+# Arquivos gerados pelo dotnet CLI
+/.dotnet/
+dotnet-*
+
+# Diretórios de saída
+/output/
+/release/
+/publish/
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
+
+# Arquivos de registro
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.cache
+*.bak
+
+# Arquivos de usuário
+*.user
+
+# Pacotes do Node.js
+node_modules/
